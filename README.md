@@ -1,7 +1,5 @@
 <div align=center>
 
-<h2 align="center"> beigeworm : nefarious enthusiast </h2>
-
 ![banner](https://github.com/beigeworm/beigeworm/assets/93350544/7a5e3155-9947-41fb-ad66-2b3355ca0368)
 
 <br>
