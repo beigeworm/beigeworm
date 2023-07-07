@@ -11,11 +11,19 @@
 
 </div>
 
+<br>
+
+<h2 align="center"> My Github Stats </h2>
+
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=800 src="https://github-readme-streak-stats.herokuapp.com/?user=beigeworm&theme=blue-green" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=beigeworm&theme=blue-green" />
+    </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=400 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beigeworm&theme=blue-green" />
     </a>
 </div>
+
 
 <!--
 **beigeworm/beigeworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
