@@ -3,7 +3,7 @@
 <h2 align="center"> beigeworm - Generally Nefarious </h2>
 <br>
 
-![pwnpi](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/a63c79e8-6ab7-4907-bed0-55f05df03062)
+![banner](https://github.com/beigeworm/beigeworm/assets/93350544/7a5e3155-9947-41fb-ad66-2b3355ca0368)
 
 <br>
 
