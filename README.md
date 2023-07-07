@@ -1,10 +1,10 @@
 <div align=center>
 
-<h2 align="center"> beigeworm - Generally Nefarious </h2>
-<br>
-
 ![banner](https://github.com/beigeworm/beigeworm/assets/93350544/7a5e3155-9947-41fb-ad66-2b3355ca0368)
 
+<br>
+
+<h2 align="center"> beigeworm - Generally Nefarious </h2>
 <br>
 
 **Welcome to my Github - If you like my work, please consider leaving a star ✨ on my repos**
