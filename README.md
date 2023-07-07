@@ -1,22 +1,9 @@
-  mm                   mm                                                                           
- m@@                   @@                                                                           
-  @@                                                                                                
-  @@m@@@@m    mm@*@@ *@@@   m@*@@@@@  mm@*@@ *@@*    m@    *@@*  m@@*@@m *@@@m@@@ *@@@@@@@@m@@@@@m  
-  @@    *@@  m@*   @@  @@  m@@  @@   m@*   @@  @@   m@@@   m@   @@*   *@@  @@* **   @@    @@    @@  
-  !@     @@  !@******  !@  *!!@@@*   !@******   @@ m@  @@ m@    @@     @@  @!       !@    @@    @@  
-  !!!   m@!  !@m    m  !@  @!        !@m    m    @@@    @!!     @@     !@  @!       !@    !@    @@  
-  !!     !!  !!******  !!  *!!!!!*   !!******    !@!!   !:!     !@     !!  !!       !!    !!    !!  
-  :!!   !!!  :!!       !!  !:        :!!         !!!    !:!     !!!   !!!  !:       :!    :!    !!  
-  : : : ::    : : :: : : :  : :!: :   : : ::      :      :       : : : : : :::    : :!:  :::   ::!: 
-                           ::     ::                                                                
-                           :::: ::                                                                  
-
-
-**beigeworm** - Generally Nefarious
-
 ![pwnpi](https://github.com/beigeworm/PwnPi-A.L.O.A-OLED-build/assets/93350544/a63c79e8-6ab7-4907-bed0-55f05df03062)
 
 -------  **Welcome to my Github - If you like my work, please consider giving a star ✨ on my repos**  -------
+
+**beigeworm** - Generally Nefarious
+
 <!--
 **beigeworm/beigeworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
