@@ -17,7 +17,7 @@
 
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=beigeworm&theme=radical" />
+      <img align="left" width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=beigeworm&theme=radical" />
     </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=beigeworm&theme=radical" />
