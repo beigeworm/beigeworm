@@ -4,7 +4,7 @@
 
 <br>
 
-**Welcome to my Github - If you like my work, please consider leaving a star ✨ on my repos**
+**Welcome to my Github - If you like my work, leave a star ✨**
 
 </div>
 
