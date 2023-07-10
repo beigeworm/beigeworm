@@ -2,10 +2,6 @@
 
 ![banner](https://github.com/beigeworm/beigeworm/assets/93350544/7a5e3155-9947-41fb-ad66-2b3355ca0368)
 
-<br>
-
-**Welcome to my Github - If you like my work, leave a star ✨**
-
 </div>
 
 <br>
