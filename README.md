@@ -13,11 +13,11 @@
   <a align="right" href="https://github.com/beigeworm/PwnPi-OLED-Build-Guide" title="PwnPi-OLED-Build-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=radical"></a>
 
   <a align="left" href="https://github.com/beigeworm/PwnPi-Scripts" title="PwnPi-Scripts"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-Scripts&theme=radical"></a>
-<br><br>
+  
   <a align="right" href="https://github.com/beigeworm/DigiSpark-BadUSB-Setup-Guide" title="DigiSpark-BadUSB-Setup-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=DigiSpark-BadUSB-Setup-Guide&theme=radical"></a>
 <br><br>
 </div>
-<br></br>
+  <br><br>
 <div width="100%" align="center">
 <h3 align="center"> Powershell Stuff </h3>
     <br><br>
@@ -28,7 +28,7 @@
   <a align="left" href="https://github.com/beigeworm/PoshCryptor" title="PoshCryptor"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCryptor&theme=radical"></a> 
 <br><br>
 </div>
-<br></br>
+  <br><br>
 <div width="100%" align="center">
 <h3 align="center"> Other Stuff </h3> 
   <br><br>
