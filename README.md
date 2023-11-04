@@ -18,6 +18,7 @@
 <br><br>
 </div>
   <br><br>
+    <div></div>
 <div width="100%" align="center">
 <h3 align="center"> Powershell Stuff </h3>
     <br><br>
@@ -29,6 +30,7 @@
 <br><br>
 </div>
   <br><br>
+  <div></div>
 <div width="100%" align="center">
 <h3 align="center"> Other Stuff </h3> 
   <br><br>
@@ -37,8 +39,8 @@
   <a align="right" href="https://github.com/beigeworm/Windows-Locksreen-in-HTML" title="Windows-Locksreen-in-HTML"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Windows-Locksreen-in-HTML&theme=radical"></a>
 
 </div>
-<br></br>
-
+<br><br>
+  <div></div>
 <h2 align="center"> My Github Stats </h2>
 
 <div align=center>
