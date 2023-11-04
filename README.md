@@ -4,8 +4,8 @@
 
 </div>
 <h2 align="center"> My Repositories </h2>
-<br>
-<div width="100%" align="center">
+<br></br>
+<div>
 <h3 align="center"> Bad USB Stuff </h3>   
   <a align="left" href="https://github.com/beigeworm/BadUSB-Files-For-FlipperZero" title="BadUSB-Files-For-FlipperZero"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=BadUSB-Files-For-FlipperZero&theme=radical"></a>
 
@@ -16,8 +16,8 @@
   <a align="right" href="https://github.com/beigeworm/DigiSpark-BadUSB-Setup-Guide" title="DigiSpark-BadUSB-Setup-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=DigiSpark-BadUSB-Setup-Guide&theme=radical"></a>
 
 </div>
-<br>
-<div align=center>
+<br></br>
+<div>
 <h3 align="center"> Powershell Stuff </h3>      
   <a align="left" href="https://github.com/beigeworm/Powershell-Tools-and-Toys" title="Powershell-Tools-and-Toys"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Powershell-Tools-and-Toys&theme=radical"></a>
 
@@ -26,15 +26,15 @@
   <a align="left" href="https://github.com/beigeworm/PoshCryptor" title="PoshCryptor"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCryptor&theme=radical"></a> 
 
 </div>
-<br>
-<div align=center>
+<br></br>
+<div>
 <h3 align="center"> Bad USB Stuff </h3>   
   <a align="left" href="https://github.com/beigeworm/GDI-Effects-in-Csharp" title="GDI-Effects-in-Csharp"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=GDI-Effects-in-Csharp&theme=radical"></a>
 
   <a align="right" href="https://github.com/beigeworm/Windows-Locksreen-in-HTML" title="Windows-Locksreen-in-HTML"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Windows-Locksreen-in-HTML&theme=radical"></a>
 
 </div>
-<br>
+<br></br>
 
 <h2 align="center"> My Github Stats </h2>
 
