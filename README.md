@@ -29,10 +29,10 @@
 <h3 align="center"> PowerShell Stuff </h3>
   <a align="left" href="https://github.com/beigeworm/Powershell-Tools-and-Toys" title="Powershell-Tools-and-Toys"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Powershell-Tools-and-Toys&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/beigeworm/PoshGram-C2" title="PoshGram-C2"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshGram-C2&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/beigeworm/PoshGram-C2" title="PoshGram-C2"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshGram-C2&theme=highcontrast"></a>
 <br><br>
   <a align="left" href="https://github.com/beigeworm/PoshCryptor" title="PoshCryptor"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCryptor&theme=highcontrast"></a> 
-  <a align="right" href="https://github.com/beigeworm/PoshCord-C2" title="PoshCord-C2"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCord-C2&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/beigeworm/PoshCord-C2" title="PoshCord-C2"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PoshCord-C2&theme=highcontrast"></a>
 <div>
   
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
