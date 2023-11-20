@@ -5,7 +5,6 @@
 
 <h2 align="center"> My Repositories </h2>
   
-![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 </div>
 
 <div width="100%" align="center">
