@@ -2,10 +2,7 @@
 
 ![banner](https://github.com/beigeworm/beigeworm/assets/93350544/7a5e3155-9947-41fb-ad66-2b3355ca0368)
 
-</div>
-<br><br>
 
-<div>
 <h2 align="center"> My Repositories </h2>
   
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
