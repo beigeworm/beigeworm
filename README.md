@@ -71,5 +71,8 @@
       <img align="right" width=370 src="https://github-readme-stats.vercel.app/api?username=beigeworm&theme=highcontrast" />
     </a>
 </div>
+
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
+
 <h3 align="center"> Powershell Tuition & Custom Scripts </h3>
 <div width="100%" align="center"> Discord User : egieb
