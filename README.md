@@ -59,8 +59,6 @@
   
   <a align="left" href="https://github.com/beigeworm/ESP8266-Message-Board" title="ESP8266-Message-Board"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=ESP8266-Message-Board&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/beigeworm/Discord-BOTS" title="Discord-BOTS"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Discord-BOTS&theme=highcontrast"></a>
-
 </div>
 <div>
   
