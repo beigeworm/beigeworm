@@ -57,6 +57,8 @@
 
   <a align="right" href="https://github.com/beigeworm/Discord-Activity-and-Music-BOT" title="Discord-Activity-and-Music-BOT"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Discord-Activity-and-Music-BOT&theme=highcontrast"></a>
 
+  <a align="left" href="https://github.com/beigeworm/World-of-Scanners" title="World-of-Scanners"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=World-of-Scanners&theme=highcontrast"></a>
+
 </div>
 <div>
   
