@@ -49,7 +49,7 @@
 
   <a align="left" href="https://github.com/beigeworm/GDI-Effects-in-Csharp" title="GDI-Effects-in-Csharp"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=GDI-Effects-in-Csharp&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/beigeworm/Windows-Locksreen-in-HTML" title="Windows-Locksreen-in-HTML"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Windows-Locksreen-in-HTML&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/beigeworm/Login-Portals-HTML" title="Login-Portals-HTML"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Login-Portals-HTML&theme=highcontrast"></a>
 
   <br><br>
   
