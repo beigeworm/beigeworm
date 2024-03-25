@@ -80,5 +80,4 @@
 
 <img src="https://is.gd/ljkabnwdiuj">
 
-<h3 align="center"> Powershell Tuition & Custom Scripting </h3>
-<div width="100%" align="center"> Discord User : egieb
+<h3 align="center"> Various script demos @ [EX39 Discord](https://discord.gg/QjKMHkdjFc)</h3>
