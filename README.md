@@ -7,7 +7,7 @@
   
 </div>
 
-<h3 align="center"> Various script demos @ [EX39 Discord](https://discord.gg/QjKMHkdjFc)</h3>
+<h3 align="center"> Script/Bot Demos @ [EX39 Discord](https://discord.gg/QjKMHkdjFc)</h3>
 
 <div width="100%" align="center">
 <h3 align="center"> Bad USB Stuff </h3>
