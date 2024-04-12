@@ -9,8 +9,11 @@
 
 <h3 align="center"> Script/Bot Demos @ [EX39 Discord](https://discord.gg/QjKMHkdjFc)</h3>
 
+
 <div width="100%" align="center">
-<h3 align="center"> Bad USB Stuff </h3>
+<iframe src="https://discord.com/widget?id=700385622019538975&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+  
+  <h3 align="center"> Bad USB Stuff </h3>
   
   <a align="left" href="https://github.com/beigeworm/BadUSB-Files-For-FlipperZero" title="BadUSB-Files-For-FlipperZero"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=BadUSB-Files-For-FlipperZero&theme=highcontrast"></a>
 
