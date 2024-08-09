@@ -86,7 +86,9 @@
     </a>
 </div>
 
+<div align=center>
 [![Discord Presence](https://lanyard.kyrie25.me/api/798886601228550146)](https://discord.com/users/798886601228550146)
+</div>
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
