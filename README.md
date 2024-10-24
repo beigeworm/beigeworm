@@ -7,9 +7,11 @@
   
 </div>
 
-
+<div width="100%" align="center">
+<h4 align="center"> Join The Discord! </h4>
 
 [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.gg/QjKMHkdjFc)
+</div>
 
 <div width="100%" align="center">
   
