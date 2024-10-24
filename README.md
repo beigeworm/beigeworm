@@ -7,6 +7,11 @@
   
 </div>
 
+<div align='center'>
+	<iframe src="https://discord.com/widget?id=700385622019538975&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+	</div>
+
+
 <h3 align="center"> Script/Bot Demos @ [EX39 Discord](https://discord.gg/QjKMHkdjFc)</h3>
 
 
