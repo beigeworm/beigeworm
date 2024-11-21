@@ -2,6 +2,11 @@
 
 ![banner](https://github.com/beigeworm/beigeworm/assets/93350544/7a5e3155-9947-41fb-ad66-2b3355ca0368)
 
+<div width="100%" align="center">
+<h2 align="center"> Join The Club! </h2>
+
+[![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.gg/QjKMHkdjFc)
+</div>
 
 <h2 align="center"> My Repositories </h2>
   
@@ -76,12 +81,6 @@
 <div>
   
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
-</div>
-
-<div width="100%" align="center">
-<h2 align="center"> Join The Club! </h2>
-
-[![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.gg/QjKMHkdjFc)
 </div>
 
 <h2 align="center"> My Github Stats </h2>
