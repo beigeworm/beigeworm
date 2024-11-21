@@ -70,6 +70,8 @@
 
   <a align="left" href="https://github.com/beigeworm/World-of-Scanners" title="World-of-Scanners"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=World-of-Scanners&theme=highcontrast"></a>
 
+  <a align="right" href="https://github.com/beigeworm/Python-Tools-and-Toys" title="Python-Tools-and-Toys"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=Python-Tools-and-Toys&theme=highcontrast"></a>
+
 </div>
 <div>
   
