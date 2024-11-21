@@ -84,7 +84,7 @@
 [![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.gg/QjKMHkdjFc)
 </div>
 
-<h2 align="center"> My Github Stats </h2>
+<h4 align="center"> My Github Stats </h4>
 
 <div align=center>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
