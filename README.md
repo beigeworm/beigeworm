@@ -25,6 +25,11 @@
   <a align="left" href="https://github.com/beigeworm/PwnPi-Scripts" title="PwnPi-Scripts"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-Scripts&theme=highcontrast"></a>
   
   <a align="right" href="https://github.com/beigeworm/DigiSpark-BadUSB-Setup-Guide" title="DigiSpark-BadUSB-Setup-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=DigiSpark-BadUSB-Setup-Guide&theme=highcontrast"></a>
+
+<br><br>
+
+  <a align="left" href="https://github.com/beigeworm/PicoLogger-Hardware-Keylogger" title="PicoLogger-Hardware-Keylogger"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PicoLogger-Hardware-Keylogger&theme=highcontrast"></a>
+  
 </div>
 <div>
   
