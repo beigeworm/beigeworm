@@ -116,7 +116,7 @@
 
 <div align=center>
   
-[![Discord Presence](https://lanyard.kyrie25.me/api/798886601228550146)](https://discord.com/users/798886601228550146)
+[![Discord Presence](https://discord.com/widget?id=700385622019538975&theme=dark)](https://discord.com/users/798886601228550146)
 
 </div>
 
