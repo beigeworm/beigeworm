@@ -1,6 +1,6 @@
 <div align=center>
 
-![banner](https://github.com/beigeworm/beigeworm/assets/93350544/7a5e3155-9947-41fb-ad66-2b3355ca0368)
+![beigebanner](https://github.com/user-attachments/assets/5f1a94e2-fb08-47a5-bac0-dee9ab28fd5f)
 
 <div width="100%" align="center">
 <h2 align="center"> Join The Club! </h2>
@@ -14,21 +14,27 @@
 
 <div width="100%" align="center">
   
+  <h3 align="center"> Hardware Projects </h3>
+
+  <a align="left" href="https://github.com/beigeworm/PicoLogger-Hardware-Keylogger" title="PicoLogger-Hardware-Keylogger"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PicoLogger-Hardware-Keylogger&theme=highcontrast"></a>
+
+  <a align="right" href="https://github.com/beigeworm/PwnPi-OLED-Build-Guide" title="PwnPi-OLED-Build-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=highcontrast"></a>
+
+<br><br>
+
+<div width="100%" align="center">
+  
   <h3 align="center"> Bad USB Stuff </h3>
   
   <a align="left" href="https://github.com/beigeworm/BadUSB-Files-For-FlipperZero" title="BadUSB-Files-For-FlipperZero"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=BadUSB-Files-For-FlipperZero&theme=highcontrast"></a>
 
-  <a align="right" href="https://github.com/beigeworm/PwnPi-OLED-Build-Guide" title="PwnPi-OLED-Build-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=highcontrast"></a>
+  <a align="right" href="https://github.com/beigeworm/PwnPi-Scripts" title="PwnPi-Scripts"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-Scripts&theme=highcontrast"></a>
   
 <br><br>
-
-  <a align="left" href="https://github.com/beigeworm/PwnPi-Scripts" title="PwnPi-Scripts"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-Scripts&theme=highcontrast"></a>
   
-  <a align="right" href="https://github.com/beigeworm/DigiSpark-BadUSB-Setup-Guide" title="DigiSpark-BadUSB-Setup-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=DigiSpark-BadUSB-Setup-Guide&theme=highcontrast"></a>
+  <a align="left" href="https://github.com/beigeworm/DigiSpark-BadUSB-Setup-Guide" title="DigiSpark-BadUSB-Setup-Guide"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=DigiSpark-BadUSB-Setup-Guide&theme=highcontrast"></a>
 
 <br><br>
-
-  <a align="left" href="https://github.com/beigeworm/PicoLogger-Hardware-Keylogger" title="PicoLogger-Hardware-Keylogger"><img align="left" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PicoLogger-Hardware-Keylogger&theme=highcontrast"></a>
   
 </div>
 <div>
