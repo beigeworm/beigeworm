@@ -21,6 +21,9 @@
   <a align="right" href="https://github.com/beigeworm/PwnPi-OLED-Build-Guide" title="PwnPi-OLED-Build-Guide"><img align="right" height="115" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=beigeworm&repo=PwnPi-OLED-Build-Guide&theme=highcontrast"></a>
 
 <br><br>
+</div>
+
+![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
 
 <div width="100%" align="center">
   
