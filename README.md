@@ -5,7 +5,10 @@
 <div width="100%" align="center">
 <h2 align="center"> Join The Club! </h2>
 
-[![Discord](https://img.icons8.com/color/48/000000/discord-logo.png)](https://discord.gg/QjKMHkdjFc)
+<div align=center>
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/QjKMHkdjFc)](https://discord.gg/QjKMHkdjFc)
+
 </div>
 
 <h2 align="center"> My Repositories </h2>
@@ -113,12 +116,6 @@
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=beigeworm&theme=high-contrast)
 
 ![line](https://github.com/beigeworm/beigeworm/assets/93350544/b88e1150-9cff-411f-877d-84bad395619f)
-
-<div align=center>
-  
-[![Discord Presence](https://discord.com/widget?id=700385622019538975&theme=dark)](https://discord.com/users/798886601228550146)
-
-</div>
 
 <img src="https://is.gd/ljkabnwdiuj">
 
