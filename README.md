@@ -3,7 +3,7 @@
 ![beigebanner](https://github.com/user-attachments/assets/5f1a94e2-fb08-47a5-bac0-dee9ab28fd5f)
 
 <div width="100%" align="center">
-<h2 align="center"> Join The Club! </h2>
+<h2 align="center"> Join The Crew! </h2>
 
 <div align=center>
 
