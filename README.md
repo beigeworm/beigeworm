@@ -10,7 +10,8 @@
 [![Join our Discord server!](https://invidget.switchblade.xyz/QjKMHkdjFc)](https://discord.gg/QjKMHkdjFc)
 
 </div>
-
+<div>
+  
 ------------------------------------------------------------------------
 
 ## ⚠️ Cybersecurity & Responsible Use
@@ -30,6 +31,7 @@ Unless otherwise stated, all opinions and projects are my own and are shared in 
 
 Thank you for helping make the cybersecurity community safer through ethical research and responsible disclosure.
 
+</div>
 ------------------------------------------------------------------------
 
 <h2 align="center"> My Repositories </h2>
