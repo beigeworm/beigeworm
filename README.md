@@ -1,10 +1,10 @@
 <div align=center>
 
 ![beigebanner](https://github.com/user-attachments/assets/5f1a94e2-fb08-47a5-bac0-dee9ab28fd5f)
-
+</div>
 <div width="100%" align="center">
 <h2 align="center"> Join The Crew! </h2>
-
+</div>
 <div align=center>
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/QjKMHkdjFc)](https://discord.gg/QjKMHkdjFc)
