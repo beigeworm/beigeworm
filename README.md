@@ -11,6 +11,27 @@
 
 </div>
 
+------------------------------------------------------------------------
+
+## ⚠️ Cybersecurity & Responsible Use
+
+Welcome to my GitHub profile.
+
+My repositories focus on cybersecurity research, software development, automation, and educational projects. Any security-related code, tools, techniques, or proof-of-concepts shared here are published **solely for educational, research, and authorized security testing purposes**.
+
+I do **not** support or condone the use of these materials for unauthorized access, malicious activity, or any action that violates applicable laws or regulations.
+
+If you choose to use any content from this profile, you are responsible for ensuring that you:
+- Only test systems you own or have explicit permission to assess.
+- Comply with all applicable laws, regulations, and organizational policies.
+- Use security knowledge responsibly and ethically.
+
+Unless otherwise stated, all opinions and projects are my own and are shared in good faith to promote learning, collaboration, and responsible security practices.
+
+Thank you for helping make the cybersecurity community safer through ethical research and responsible disclosure.
+
+------------------------------------------------------------------------
+
 <h2 align="center"> My Repositories </h2>
   
 </div>
